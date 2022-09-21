@@ -8,6 +8,8 @@ Ganhei na Mega é um aplicativo que gera para o jogador números aleatórios de 
 
 
 
+
+
 <img src="C:\Users\gabri\AppData\Roaming\Typora\typora-user-images\image-20220921190721219.png" alt="image-20220921190721219" style="zoom:50%;" />
 
 <video src="C:\Users\gabri\Pictures\video_2022-09-21_19-14-44.mp4"></video>
