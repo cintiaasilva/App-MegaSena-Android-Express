@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GanheiNaMega</string>
+    <string name="title">Seja o próximo ganhador!</string>
+    <string name="number_hint">Escolha os números da aposta ( 6 - 15 )</string>
+    <string name="number_generator">Gerar números</string>
+    <string name="icon_clover">Icon clover</string>
+    <string name="logo">Logo</string>
+    <string name="txt_footer">O que voce faria se fosse milionário?!</string>
+    <string name="last_bet">Última aposta:</string>
+    <string name="message">Informe os números de 6 à 15</string>
+</resources>

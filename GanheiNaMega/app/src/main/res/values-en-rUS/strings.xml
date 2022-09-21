@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">I won at mega</string>
+    <string name="title">Be the next winner!</string>
+    <string name="number_hint">Choose bet numbers ( 6 - 15 )</string>
+    <string name="number_generator">Generate numbers</string>
+    <string name="icon_clover">Icon clover</string>
+    <string name="logo">Logo</string>
+    <string name="txt_footer">What would you do if you were a millionaire?!</string>
+    <string name="last_bet">Last bet: </string>
+    <string name="message">Enter the numbers from 6 to 15</string>
+</resources>
